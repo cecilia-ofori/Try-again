@@ -61,3 +61,15 @@ Perforce, also known as Helix Core, is a centralized version control system desi
 Commit
 
 A commit in Git is like taking a snapshot of your project at a certain point in time. It's a way to save your changes and keep track of them in your project's history
+
+
+
+    Git log command is used to display the commit history of a Git repository.
+    
+     It shows a list of commits, including details such as the commit hash, author, date, and commit message.
+    
+
+    Example in image
+
+
+    8 The command git add is used in Git to stage changes for the next commit. When you make changes to files in your working directory (such as editing, adding new files, or deleting files), those changes are not automatically tracked by Git until you stage them using git add.
