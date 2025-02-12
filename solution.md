@@ -73,3 +73,8 @@ A commit in Git is like taking a snapshot of your project at a certain point in 
 
 
     8 The command git add is used in Git to stage changes for the next commit. When you make changes to files in your working directory (such as editing, adding new files, or deleting files), those changes are not automatically tracked by Git until you stage them using git add.
+
+
+    Staging area in Git is where you prepare your changes before committing them to the local repository. It allows you to carefully select which changes you want to include in your next commit.
+
+    
