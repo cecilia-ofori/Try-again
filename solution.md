@@ -106,3 +106,9 @@ This is specifically designed to switch between branches.
 git pull is a command used in Git to fetch changes from a remote repository and merge them into your current local branch. It's a combination of two operations: 
 
 fetch and merge
+
+
+
+-d : Safe delete (only deletes if the branch is fully merged)
+
+-D: Force delete (if the branch has unmerged changes)
