@@ -85,4 +85,11 @@ A commit in Git is like taking a snapshot of your project at a certain point in 
     11. git push (Push Changes to Remote)
 1.      git pull (Pull Changes from  Remote)
 2.      git fetch (fetches  Changes from Remote)
+3.      
+
+
+git merge: Merging Changes
+
+git merge combines the histories of two branches, creating a new commit on the target branch (usually main or master) that links both branches together.
+
 
