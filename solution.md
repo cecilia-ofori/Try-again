@@ -77,4 +77,12 @@ A commit in Git is like taking a snapshot of your project at a certain point in 
 
     Staging area in Git is where you prepare your changes before committing them to the local repository. It allows you to carefully select which changes you want to include in your next commit.
 
-    
+
+
+    10 . To commit with meassage on the same line
+    git commit -m "Your commit message here"
+
+    11. git push (Push Changes to Remote)
+1.      git pull (Pull Changes from  Remote)
+2.      git fetch (fetches  Changes from Remote)
+
