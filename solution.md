@@ -92,4 +92,14 @@ git merge: Merging Changes
 
 git merge combines the histories of two branches, creating a new commit on the target branch (usually main or master) that links both branches together.
 
+Yes, the git checkout command has an alias: 
+git switch.
+
+git checkout <branch>:
+
+This is used to switch to a different branch.
+
+git switch <branch> (introduced as a more intuitive alternative):
+
+This is specifically designed to switch between branches.
 
