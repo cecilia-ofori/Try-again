@@ -46,9 +46,18 @@ Code reviews: You can easily collaborate on code changes through pull requests.
  Mercurial (Hg)
 
  Mercurial is another distributed version control system similar to Git. It is known for being easy to use and having a simpler learning curve than Git.
- 
+
 
  Perforce (Helix Core)
 
 
 Perforce, also known as Helix Core, is a centralized version control system designed to handle large-scale software development with large codebases (often used in game development, enterprise, and media industries).
+
+4. git status :
+
+ It shows the current state of your working directory and staging area
+
+5.
+Commit
+
+A commit in Git is like taking a snapshot of your project at a certain point in time. It's a way to save your changes and keep track of them in your project's history
