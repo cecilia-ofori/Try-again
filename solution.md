@@ -30,7 +30,7 @@ git push: Upload changes to a remote repository.
 
 GitHub is a cloud-based platform that hosts Git repositories. It is the most widely used platform for storing and collaborating on Git repositories. It adds a lot of features for collaboration, such as pull requests, issues, actions, and more.
 
-Key Features:
+ Key Features: 
 
 Remote Git hosting: You store your Git repositories online.
 
