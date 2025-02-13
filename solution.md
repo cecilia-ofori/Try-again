@@ -210,3 +210,6 @@ fetch and merge
 
 
 -D: Force delete (if the branch has unmerged changes)
+
+ Exercise 20
+ Still waiting for elvis
