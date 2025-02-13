@@ -196,6 +196,8 @@ This is specifically designed to switch between branches.
 ![alt text](Image/tags.png)
 
 
+
+
 # Exercise 16
 
 ![alt text](<Image/swicth and checkout.png>)
